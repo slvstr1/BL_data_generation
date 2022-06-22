@@ -18,7 +18,7 @@ Mako==1.0.7
 MarkupSafe==1.0
 nemo-emblems==4.4.0
 netifaces==0.10.4
-numpy==1.18.4
+numpy==1.22.0
 onboard==1.4.1
 PAM==0.4.2
 pandas==1.0.3
